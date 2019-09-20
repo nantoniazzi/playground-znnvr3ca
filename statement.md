@@ -6,7 +6,7 @@ This Java templ  ate lets you get started quickly with a simple one-page playgro
 // { autofold
 public class Main {
 
-public static void main(String[] args) {
+public static void main(Str ing[] args) {
 // }
 
 String message = "Hello Wo  rld!";
